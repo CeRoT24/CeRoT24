@@ -1,6 +1,3 @@
-<img width="817" height="245" alt="image" src="https://github.com/user-attachments/assets/2aaae848-b86b-401a-bd70-d0b100c19890" />
-
-
 Game developer · Software engineer · Designer
 
 <img src="./banner.png" width="600">
